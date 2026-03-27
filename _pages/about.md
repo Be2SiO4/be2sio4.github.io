@@ -8,6 +8,8 @@ redirect_from:
 ---
 I am a third-year Ph. D. student in mathematics at Beijing International Center for Mathematical Research, Peking University. 
 
+
+
 Education
 ======
 
@@ -15,3 +17,9 @@ Education
 
 2023-present Ph.D. in Mathematics, Beijing International Center for Mathematical Research, Peking University
 Advisor: Wenyuan Yang
+
+
+
+Research
+======
+Geometric Group Theory: I'm mainly interested in hyperbolic groups and their generalizations - things like relatively hyperbolic groups, CAT(0) groups, group with contracting elements, and beyond.
