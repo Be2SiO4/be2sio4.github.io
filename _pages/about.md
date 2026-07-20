@@ -6,21 +6,29 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year Ph. D. student in mathematics at Beijing International Center for Mathematical Research, Peking University. 
+I am a Ph. D. student in mathematics at Beijing International Center for Mathematical Research, Peking University. 
 
 
 
-Education
-======
+## Education
 
-2019-2023 Bachelor of Science in Mathematics, School of Mathematical Sciences, Nankai University
+- **2023–Present**
+  
+  Ph.D. in Mathematics
 
-2023-present Ph.D. in Mathematics, Beijing International Center for Mathematical Research, Peking University
+  Beijing International Center for Mathematical Research, Peking University
 
-Advisor: Wenyuan Yang
+  Advisor: Prof. Wenyuan Yang
+
+- **2019–2023**
+
+  B.Sc. in Mathematics
+
+  School of Mathematical Sciences, Nankai University
+
 
 
 
 Research
 ======
-Geometric Group Theory: I'm mainly interested in hyperbolic groups and their generalizations - things like relatively hyperbolic groups, CAT(0) groups, group with contracting elements, and beyond.
+Geometric Group Theory: I'm mainly interested in hyperbolic groups and their generalizations - things like relatively hyperbolic groups, CAT(0) groups, group with contracting elements, and beyond. Recently I'm working on geometric infiniteness.
