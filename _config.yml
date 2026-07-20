@@ -26,16 +26,17 @@ author:
   avatar           : "profile.png"
   name             : "Chaodong Yang"
   pronouns         : # example: "she/her"  
-  bio              : #""
+  bio              : "Ph.D. Student in Mathematics"
+
   location         : "Beijing, China"
-  employer         : "Peking University"
+  employer         : "BICMR, Peking University"
   uri              : # URL
-  email            : "be2sio4 at stu.pku.edu.cn" 
+  email            : "be2sio4@stu.pku.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=iQk3zzoAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=iQk3zzoAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : #"https://orcid.org/yourorcidurl"
