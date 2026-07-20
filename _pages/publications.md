@@ -7,16 +7,15 @@ author_profile: true
 
 ## Preprints
 
-{% assign preprints = site.publications | where: "category", "preprints" | sort: "date" | reverse %}
+{% assign papers = site.publications | sort: "date" | reverse %}
 
-{% for paper in preprints %}
+{% for paper in papers %}
 
-### [{{ paper.title }}]({{ paper.arxiv }})
-
-{{ paper.authors }}
-
-{{ paper.citation }}
-&nbsp;  
+**[{{ forloop.index }}] {{ paper.authors }}.**  
+{{ paper.title }}.  
+{{ paper.citation }}  
 [arXiv]({{ paper.arxiv }}) · [PDF]({{ paper.pdf }})
+
+<br>
 
 {% endfor %}
