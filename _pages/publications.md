@@ -5,10 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
-
 ## Preprints
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% assign preprints = site.publications | where: "category", "preprints" | sort: "date" | reverse %}
+
+{% for paper in preprints %}
+
+### [{{ paper.title }}]({{ paper.arxiv }})
+
+{{ paper.authors }}
+
+{{ paper.citation }}
+&nbsp;  
+[arXiv]({{ paper.arxiv }}) · [PDF]({{ paper.pdf }})
+
 {% endfor %}
